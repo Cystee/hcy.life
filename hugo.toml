@@ -21,6 +21,6 @@ author = "HCY"
         hl_Lines = ""
         lineNoStart = 1
         lineNos = true
-        lineNumbersInTable = false
+        lineNumbersInTable = true
         noClasses = false
         tabWidth = 2
