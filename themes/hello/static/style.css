@@ -7149,10 +7149,9 @@ kbd {
 }
 
 ::-webkit-scrollbar {
-    width: 20px;
-    /* background: #eee; */
+    width: 5px;
 }
 
-/* ::-webkit-scrollbar-thumb {
+::-webkit-scrollbar-thumb {
     background: #ccc;
-} */
+}
