@@ -3,7 +3,8 @@ body.light-theme, :root {
   /* light theme color */
   --background: #fff;
   --background-secondary: #eaeaea;
-  --header: #fafafa;
+  /* --header: #fafafa; */
+  --header: rgba(249, 249, 250, .8);
   --color: #222;
   --color-secondary: #999;
   --border-color: #dcdcdc;
@@ -25,7 +26,8 @@ body.dark-theme {
     /* light theme color */
     --background: #fff;
     --background-secondary: #eaeaea;
-    --header: #fafafa;
+    /* --header: #fafafa; */
+    --header: rgba(249, 249, 250, .8);
     --color: #222;
     --color-secondary: #999;
     --border-color: #dcdcdc; } }
