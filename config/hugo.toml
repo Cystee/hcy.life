@@ -1,6 +1,6 @@
 baseURL = 'https://hcy.life/'
 languageCode = 'zh-CN'
-theme = "newsroom"
+theme = ["newsroom"]
 author = "hcy"
 cleanDestinationDir = true
 enableGitInfo = true
