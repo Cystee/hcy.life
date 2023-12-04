@@ -3,6 +3,6 @@ If you want to include any custom html just before </body>, put it in /layouts/p
 Do not put anything in this file - it's only here so that hugo won't throw an error if /layouts/partials/extended_footer.html doesn't exist.
 -->
 <script>
-    var footerText = document.querySelector(".footerText");
-    footerText.innerHTML = "have fun";
+    var footerText = document.querySelector("footer .logo__text");
+    footerText.innerText = "have fun";
 </script>
