@@ -7,7 +7,5 @@ hasCJKLanguage = true
 defaultContentLanguage = "zh"
 canonifyurls = true
 paginate = 6
-title = "HCY"
-[params]
-    subtitle = "hcy.life"
-    AuthorName = "hcy"
+title = "H.C.yan"
+author = "HCY"
