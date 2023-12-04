@@ -1,0 +1,4 @@
+baseURL = 'https://hcy.life/'
+languageCode = 'zh-CN'
+title = 'HCY.LIFE'
+theme = ['newsroom']
