@@ -9,3 +9,17 @@ canonifyurls = true
 paginate = 6
 title = "H.C.yan"
 author = "HCY"
+[markup]
+    [goldmark.renderer]
+        hardWraps = false
+        unsafe = true # change to true to enable inclusion of rawHTML and math functions
+        xhtml = false
+    [highlight]
+        codeFences = true
+        guessSyntax = false
+        hl_Lines = ""
+        lineNoStart = 1
+        lineNos = true
+        lineNumbersInTable = false
+        noClasses = false
+        tabWidth = 2
