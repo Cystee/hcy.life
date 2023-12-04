@@ -7148,3 +7148,11 @@ kbd {
     box-shadow: 0px 2px 2px 1px rgba(128, 128, 128, .5);
 }
 
+::-webkit-scrollbar {
+    width: 20px;
+    /* background: #eee; */
+}
+
+/* ::-webkit-scrollbar-thumb {
+    background: #ccc;
+} */
