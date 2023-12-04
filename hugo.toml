@@ -1,6 +1,6 @@
 baseURL = 'https://hcy.life/'
 languageCode = 'zh-CN'
-theme = ["newsroom"]
+theme = ["hcylife"]
 cleanDestinationDir = true
 enableGitInfo = true
 hasCJKLanguage = true
