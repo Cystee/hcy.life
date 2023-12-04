@@ -8,4 +8,5 @@ hasCJKLanguage = true
 defaultContentLanguage = "zh"
 canonifyurls = true
 paginate = 6
-title = "HCY\.life"
+title = "HCY"
+subtitle = "hcy.life"
