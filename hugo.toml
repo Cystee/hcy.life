@@ -1,7 +1,6 @@
 baseURL = 'https://hcy.life/'
 languageCode = 'zh-CN'
 theme = ["newsroom"]
-author = "hcy"
 cleanDestinationDir = true
 enableGitInfo = true
 hasCJKLanguage = true
@@ -9,4 +8,6 @@ defaultContentLanguage = "zh"
 canonifyurls = true
 paginate = 6
 title = "HCY"
-subtitle = "hcy.life"
+[params]
+    subtitle = "hcy.life"
+    AuthorName = "hcy"\
