@@ -7157,9 +7157,10 @@ kbd {
 }
 
 .terms__term-count {
-    position: relative;
-    bottom: 3px;
-    z-index: -1;
+    font-family: auto;
+    font-weight: 900;
+    font-size: smaller;
+    padding: 5px 10px;
 }
 
 .header {
