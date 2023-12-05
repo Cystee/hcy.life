@@ -7161,3 +7161,26 @@ kbd {
     bottom: 3px;
     z-index: -1;
 }
+
+.post-tags {
+    z-index: -1;
+    position: relative;
+}
+
+.read-more {
+    z-index: -1;
+}
+
+@media (max-width: 684px) {
+    .menu {
+        background: #fafafa !important;
+    }
+}
+
+body.light-theme {
+    --orihead: #fafafa;
+}
+
+body.dark-theme {
+    --orihead: #252627;
+}
