@@ -7157,10 +7157,10 @@ kbd {
 }
 
 .terms__term-count {
-    font-family: auto;
+    font-family: 'Courier Prime', auto;
     font-weight: 900;
-    font-size: smaller;
-    padding: 5px 10px;
+    font-size: large;
+    padding: 3px 10px 0px 10px;
 }
 
 .header {
