@@ -7155,3 +7155,9 @@ kbd {
 ::-webkit-scrollbar-thumb {
     background: #ccc;
 }
+
+.terms__term-count {
+    position: relative;
+    bottom: 3px;
+    z-index: -1;
+}

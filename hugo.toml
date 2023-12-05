@@ -8,9 +8,23 @@ defaultContentLanguage = "zh"
 canonifyurls = true
 title = "H.C.yan"
 author = "HCY"
-uglyURLs = true
+uglyURLs = false
+[params]
+  rssFullText = true
 [menu]
   [[menu.main]]
     identifier = "archive"
     name = "归档"
     url = "/archives/"
+  [[menu.main]]
+    identifier = "categories"
+    name = "分类"
+    url = "/categories/"
+[outputFormats]
+  [outputFormats.rss]
+    baseName = 'rss'
+    mediaType = 'application/rss+xml'
+    protocol = 'https://'
+[outputs]
+  home = ['html', 'rss']
+  section = ['html', 'rss']
