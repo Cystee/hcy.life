@@ -11,6 +11,7 @@ author = "HCY"
 uglyURLs = false
 [params]
   rssFullText = true
+  contentTypeName = "posts"
 [menu]
   [[menu.main]]
     identifier = "archive"
