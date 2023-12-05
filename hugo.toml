@@ -6,7 +6,6 @@ enableGitInfo = true
 hasCJKLanguage = true
 defaultContentLanguage = "zh"
 canonifyurls = true
-paginate = 6
 title = "H.C.yan"
 author = "HCY"
 uglyURLs = true
@@ -14,4 +13,4 @@ uglyURLs = true
   [[menu.main]]
     identifier = "archive"
     name = "归档"
-    url = "/archives"
+    url = "/archives/"
