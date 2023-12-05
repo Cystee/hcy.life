@@ -7162,13 +7162,8 @@ kbd {
     z-index: -1;
 }
 
-.post-tags {
-    z-index: -1;
-    position: relative;
-}
-
-.read-more {
-    z-index: -1;
+.header {
+    z-index: 200;
 }
 
 @media (max-width: 684px) {
