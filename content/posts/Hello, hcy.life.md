@@ -3,6 +3,7 @@ title = 'Hello, Hcy.life'
 date = 2023-12-04T07:18:15Z
 draft = false
 description = '你好！hcy.life 仍在建设中，如果有一天你发现这段文字不见了，那是站长准备好维护它了 :-）'
+categories = ["Hello"]
 +++
 
 > Drips and draps —— 点点滴滴
